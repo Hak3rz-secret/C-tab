@@ -173,7 +173,6 @@ footer {
     position: fixed;
     right: 0;
     top: 50%;
-    transform: translateY(-0%); /* Center vertically */
     width: 200px;
     height: 100vh; /* Adjust height as needed */
     background: linear-gradient(to bottom, #e0f7fa, #b2dfdb);

@@ -174,7 +174,7 @@ footer {
     right: 0;
     top: 50%;
     transform: translateY(-0%); /* Center vertically */
-    width: 100px;
+    width: 300px;
     height: 80%; /* Adjust height as needed */
     background: linear-gradient(to bottom, #e0f7fa, #b2dfdb);
     border-left: 2px solid #ddd;
@@ -192,10 +192,10 @@ footer {
 
 @media screen and (max-width: 600px) {
     .cart-sidebar {
-        width: 45%; /* Adjust width for mobile */
-        height: 80%; /* Adjust height for mobile */
-        top: 0%; /* Position from the top */
-        bottom: 40%; /* Position from the bottom */
+        width: 80%; /* Adjust width for mobile */
+        height: 100%; /* Adjust height for mobile */
+        top: 20%; /* Position from the top */
+        bottom: 20%; /* Position from the bottom */
         border-left: none;
         border-top: 2px solid #ddd;
         transform: translateY(0); /* No vertical centering on mobile */

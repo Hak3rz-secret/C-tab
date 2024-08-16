@@ -172,7 +172,7 @@ footer {
 .cart-sidebar {
     position: fixed;
     right: 0;
-    top: 50%;
+    top: 0%;
     width: 200px;
     height: 100vh; /* Adjust height as needed */
     background: linear-gradient(to bottom, #e0f7fa, #b2dfdb);

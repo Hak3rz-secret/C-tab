@@ -174,8 +174,8 @@ footer {
     right: 0;
     top: 50%;
     transform: translateY(-0%); /* Center vertically */
-    width: 300px;
-    height: 100%; /* Adjust height as needed */
+    width: 200px;
+    height: 60vh; /* Adjust height as needed */
     background: linear-gradient(to bottom, #e0f7fa, #b2dfdb);
     border-left: 2px solid #ddd;
     padding: 20px;

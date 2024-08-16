@@ -190,19 +190,6 @@ footer {
     transform: translateX(0); /* Show the cart */
 }
 
-@media screen and (max-width: 600px) {
-    .cart-sidebar {
-        width: 80%; /* Adjust width for mobile */
-        height: 100%; /* Adjust height for mobile */
-        top: 20%; /* Position from the top */
-        bottom: 20%; /* Position from the bottom */
-        border-left: none;
-        border-top: 2px solid #ddd;
-        transform: translateY(0); /* No vertical centering on mobile */
-        transform: translateX(100%); /* Ensure it’s hidden on mobile initially */
-    }
-}
-
 /* Close Button for Cart */
 .cart-sidebar .close-btn {
     position: absolute;
